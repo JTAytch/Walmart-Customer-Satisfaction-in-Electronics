@@ -1,5 +1,12 @@
 # Walmart-Customer-Satisfaction-in-Electronics
-Walmart’s Customer Satisfaction in Electronics &amp; Home Entertainment Data Science Project
+
+Proposal
+Walmart’s Customer Satisfaction in Home Furnishings
+Eliana Alon | Lauren Furman | Joseph Aytch | Michelle Valencia
+
+DSC450 Applied Data Science
+Fall 2024
+
 
 The focus on Walmart’s customer satisfaction in home furnishings will be providing actionable insights for Walmart to enhance customer satisfaction and improve its offerings in the home furnishing sector. Below we have listed (10) subjects that may help Walmart to understand customer’s expectations:
 Sentiment Analysis: Assess the overall sentiment of customer reviews on home furnishings to identify common themes or issues (ex: quality, price, style, etc.)
